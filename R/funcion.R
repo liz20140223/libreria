@@ -19,5 +19,5 @@ normalHist=function(x,dens=FALSE,...){
   maxy=1.1*max(yn)
   hist(x, ylim=c(0,maxy),freq=FALSE,...)
   lines(xn,yn,col="red",lwd=2)
-  if (dens) lines(density(x),col="blue",lty=2,lwd=2)
-}
+  if (dens) lines(density(x),col="blue",lty=2,lwd=2)}
+##comentatrio
