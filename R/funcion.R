@@ -21,3 +21,4 @@ normalHist=function(x,dens=FALSE,...){
   lines(xn,yn,col="red",lwd=2)
   if (dens) lines(density(x),col="blue",lty=2,lwd=2)}
 ##comentatrio
+##kenet  somos este ciclo en ads con giannina y sofia :)
